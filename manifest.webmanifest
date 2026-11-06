@@ -1,0 +1,17 @@
+{
+  "name": "신세계 찬양 목록",
+  "short_name": "신세계 찬양",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1RI6AdLE-pW4_5kyzVlvw-wK0eDJ5Ib-k",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
